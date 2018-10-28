@@ -35,4 +35,5 @@ Recargo Precio+(Precio·0'14)
 (Precio·1)+(Precio·0,14)=Precio·(1+0'14)= Precio·1'14
 
 IVA 21% -79€  100€    PN+IVA  PN+(PN·0'21)= P.V.P
-                                  IVA(PN·0'21)
+
+IVA(PN·0'21)
