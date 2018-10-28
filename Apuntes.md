@@ -1,4 +1,4 @@
-Apuntes ofimatica
+<h2 id="titulo">Apuntes ofimatica</h2>
 
 F11 pantalla completa
 
