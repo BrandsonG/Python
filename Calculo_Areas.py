@@ -8,7 +8,6 @@ if(opcio=="T"):
 else:
     pi=3.14159265359
     radio_circulo=int(input("Radio circulo:"))
-    Res
     Res_2=abs(2*pi*radio_circulo)
     if(opcio=="C"):
         print("Area del circulo es",Res_2)
