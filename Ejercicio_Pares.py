@@ -1,4 +1,3 @@
-#No me sale
 Numero = float(input("Introduce un numero:"))
 
 if (Numero%5) :
