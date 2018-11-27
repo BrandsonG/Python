@@ -48,10 +48,10 @@ IVA(PN·0'21)
 
 Hay varios tipos de listas de distribución
 
-Lista de correo: Sirve para poder enviar un correo a varios usuarios a la vez, de tal forma que sea mas facil comunicar algo a varias personas a la vez.
+**Lista de correo:** Sirve para poder enviar un correo a varios usuarios a la vez, de tal forma que sea mas facil comunicar algo a varias personas a la vez.
 
-Foro web: se pueden hacer debates y interactuar con el grupo y se pueden responder entre ellos. Los miembros publican temas
+**Foro web:** se pueden hacer debates y interactuar con el grupo y se pueden responder entre ellos. Los miembros publican temas
 
-Foro de preguntas y respuestas: Permite hacer preguntas y que otros usuarios te respondan la duda y puntuen.
+**Foro de preguntas y respuestas:** Permite hacer preguntas y que otros usuarios te respondan la duda y puntuen.
 
-Bandeja Colaborativa: Sirve para un proyecto grupal en el cual cada miembro tiene su tarea y puede ser reasignado a otra depende de como vaya el proyecta y la necesidad de hacerlo.
+**Bandeja Colaborativa:** Sirve para un proyecto grupal en el cual cada miembro tiene su tarea y puede ser reasignado a otra depende de como vaya el proyecta y la necesidad de hacerlo.
