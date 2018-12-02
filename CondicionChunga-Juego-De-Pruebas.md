@@ -1,4 +1,5 @@
 |**Entrada**|**Salida** |
+|-----|-----|
 |-30|Par negativo|
 |-11|Impar negativo|
 |-10|Par negativo|
